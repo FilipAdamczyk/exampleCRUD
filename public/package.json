@@ -1,0 +1,16 @@
+{
+  "name": "examplecrud",
+  "version": "1.0.0",
+  "description": "UI for ExampleCRUD",
+  "author": {
+    "name": "Filip Adamczyk"
+  },
+  "contributors": [
+    {
+      "name": "Filip Adamczyk"
+    }
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
